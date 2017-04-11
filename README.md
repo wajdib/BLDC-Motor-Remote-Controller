@@ -5,6 +5,7 @@ A custom designed remote to control BLDC motor board. This design uses an OLED d
 
 # Design
 Remote enclosure was designed in Autodesk Inventor, featuring an ergonomic design and compact spacing.
+![alt text](https://github.com/wajdib/BLDC-Motor-Remote-Controller/blob/master/M96oo9M.png "")
 
 # Components
 * Adafruit feather m0 developement board
@@ -13,6 +14,9 @@ Remote enclosure was designed in Autodesk Inventor, featuring an ergonomic desig
 * 0.96" RGB Oled display
 * Nrf24l01 wireless transceiver
 * Momentary switches
+
+![alt text](https://github.com/wajdib/BLDC-Motor-Remote-Controller/blob/master/rohiBvk.png "UI")
+
 
 # Features
 * Read and display electric motor speed

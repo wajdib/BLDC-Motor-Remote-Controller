@@ -1,6 +1,8 @@
 # BLDC-Motor-Remote-Controller
 A custom designed remote to control BLDC motor board. This design uses an OLED display for telemetry, rechargeable battery and wireless connectivity.
 
+![alt text](https://github.com/wajdib/BLDC-Motor-Remote-Controller/blob/master/IMG_0797.JPG "3D printed prototype")
+
 # Design
 Remote enclosure was designed in Autodesk Inventor, featuring an ergonomic design and compact spacing.
 
